@@ -1,6 +1,7 @@
 ## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Repositório referente às aulas de Lógica Condicional e Controle de Fluxos em Java, disponíveis no Bootcamp GFT Quality Assurance Para Mulheres da DIO.
+
 
 ## Folder Structure
 
